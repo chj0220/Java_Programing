@@ -3,7 +3,7 @@ package Chapter_02;
 import java.util.Scanner;
 
 public class No_03 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.print("금액을 입력하시오. >> ");
         Scanner sc = new Scanner(System.in);
         int won = sc.nextInt();

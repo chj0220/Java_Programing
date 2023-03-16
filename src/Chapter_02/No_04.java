@@ -3,7 +3,7 @@ package Chapter_02;
 import java.util.Scanner;
 
 public class No_04 {
-    public static void main(String args []){
+    public static void main(String[] args ){
         System.out.print("정수 3개 입력>> ");
         Scanner sc = new Scanner(System.in);
         int num1=sc.nextInt();
